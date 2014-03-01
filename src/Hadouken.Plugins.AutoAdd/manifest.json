@@ -5,6 +5,7 @@
   "version": "1.0",
 
   "dependencies": [
+    { "id": "config", "version": "1.0" },
     { "id": "torrents", "version": "1.2" }
   ]
 }
