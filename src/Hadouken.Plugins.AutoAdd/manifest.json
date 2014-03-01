@@ -1,0 +1,10 @@
+﻿{
+  "manifest_version": 1,
+
+  "id": "autoadd",
+  "version": "1.0",
+
+  "dependencies": [
+    { "id": "torrents", "version": "1.2" }
+  ]
+}
